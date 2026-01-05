@@ -1,6 +1,5 @@
-package com.example.tutorspace.ui.theme
+package dev.selivanovi.tutorspace.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

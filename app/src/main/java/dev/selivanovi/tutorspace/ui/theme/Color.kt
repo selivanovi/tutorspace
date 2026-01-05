@@ -1,4 +1,4 @@
-package com.example.tutorspace.ui.theme
+package dev.selivanovi.tutorspace.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
