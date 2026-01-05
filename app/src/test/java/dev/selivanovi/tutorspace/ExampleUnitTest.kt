@@ -1,4 +1,4 @@
-package com.example.tutorspace
+package dev.selivanovi.tutorspace
 
 import org.junit.Test
 

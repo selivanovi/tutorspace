@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tutorspace"
+    namespace = "dev.selivanovi.tutorspace"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.tutorspace"
+        applicationId = "dev.selivanovi.tutorspace"
         minSdk = 28
         targetSdk = 36
         versionCode = 1
